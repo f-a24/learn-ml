@@ -1,1 +1,0 @@
-[Pythonで動かして学ぶ！あたらしい機械学習の教科書](https://www.shoeisha.co.jp/book/detail/9784798144986) の写経コード
